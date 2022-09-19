@@ -70,7 +70,7 @@ let foods = reactive([{id:0,imgPath:'https://bia2safa.net/goto/file/image/259097
                          <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
                      </svg>
                 </div>
-                <div class="w-6 mr-3"><input type="number" min="0" placeholder="0"></div>
+                <div class="w-6 mr-3"><p>0</p></div>
                 <div class="bg-gray-400 rounded-full"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" />
                      </svg>
